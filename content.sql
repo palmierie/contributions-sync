@@ -1,4 +1,4 @@
 SELECT * from vonha;
 SELECT * from rrmmt;
 SELECT * from xgfmv;
-SELECT * from fedua;
+SELECT * from djlir;
