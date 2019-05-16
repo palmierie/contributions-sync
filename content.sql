@@ -7,3 +7,4 @@ SELECT * from kenwi;
 SELECT * from rshou;
 SELECT * from ntwpg;
 SELECT * from eciud;
+SELECT * from usult;
