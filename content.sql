@@ -9,4 +9,4 @@ SELECT * from ntwpg;
 SELECT * from eciud;
 SELECT * from usult;
 SELECT * from wskjp;
-SELECT * from okswx;
+SELECT * from jiicx;
