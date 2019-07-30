@@ -10,3 +10,4 @@ SELECT * from eciud;
 SELECT * from usult;
 SELECT * from wskjp;
 SELECT * from ipqnw;
+SELECT * from dyyls;
