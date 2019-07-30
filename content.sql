@@ -11,3 +11,4 @@ SELECT * from usult;
 SELECT * from wskjp;
 SELECT * from ipqnw;
 SELECT * from dyyls;
+SELECT * from alknq;
